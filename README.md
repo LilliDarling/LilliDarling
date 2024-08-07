@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LilliDarling
-- 👀 I’m interested in way too many things, like how to frustrate myself the most and have apparently landed on software development.
+- 👀 I’m interested in DevOps, Security Engineering, AI Engineering, and Blockchain.
 - 🌱 I’m currently learning software development through a program called Hack Reactor through Galvanize. 
-- 💞️ I’m looking to collaborate on nothing right now but my skills in Python are becoming more solidified and hopefully Javascript to follow suite.
-- 📫 How to reach me ... don't. Unless you're offering tacos. Then MAYBE you can reach me.
+- 📫 How to reach me:
+      - Roadmap.sh - [![roadmap.sh](https://roadmap.sh/card/tall/66b23099d9896b3d142321e1?variant=dark)](https://roadmap.sh)
+      - Discord - @lillith_rising
