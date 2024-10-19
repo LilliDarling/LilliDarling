@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilliDarling  
-- 👀 I’m interested in DevOps, Security Engineering, AI Engineering, and Blockchain.  
-- 🌱 I’m currently learning software development through a program called Hack Reactor through Galvanize.   
+- 👀 I’m interested in DevOps, Security Engineering, and AI Engineering.  
+- 🌱 I’m currently building projects of my own and learning new software as I go.  
 - 📫 How to reach me:  
       - Discord - @lillith_rising  
   
