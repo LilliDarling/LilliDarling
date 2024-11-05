@@ -4,5 +4,5 @@
 - 📫 How to reach me:  
       - Discord - @lillith_rising  
   
-[![roadmap.sh](https://roadmap.sh/card/tall/66b23099d9896b3d142321e1?variant=dark&roadmaps=devops%2Cfull-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)  
+[![roadmap.sh](https://roadmap.sh/card/tall/66b23099d9896b3d142321e1?variant=dark)](https://roadmap.sh)
 
