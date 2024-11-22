@@ -42,7 +42,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-00897B?style=flat)
 
 ## 📊 GitHub Stats
 
