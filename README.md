@@ -3,6 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/LilliDarling?label=Follow&style=social)](https://github.com/LilliDarling)
 [![Discord](https://img.shields.io/badge/Discord-@lillith__rising-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
 
 ## 👩‍💻 About Me
 - 🔭 Currently working on personal AI and full-stack projects
@@ -65,7 +66,7 @@
 </p>
 
 ## 👁‍🗨 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)  [!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
+![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)  
 
 ---
 
