@@ -6,7 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/LilliDarling?label=Follow&style=social)](https://github.com/LilliDarling)
 [![Discord](https://img.shields.io/badge/Discord-@lillith__rising-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/814526671549235209)  
-[!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
 
 ## 👩‍💻 About Me
 - 🔭 Currently working on personal AI and full-stack projects as well as a volunteer founding engineer for a Neurodivergent company
@@ -49,14 +48,11 @@
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-00897B?style=flat)
 
 ## 📫 Connect With Me
-<p align="left">
-  <a href="https://discord.com/users/814526671549235209" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/lillith-long" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
-  </a>
-</p>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/814526671549235209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lillith-long)
+[!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
+
 
 ## 📊 GitHub Stats
 
