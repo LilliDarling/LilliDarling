@@ -2,7 +2,7 @@
 ### 🚀 Full-Stack Engineer | AI Enthusiast | Continuous Learner
 
 [![GitHub followers](https://img.shields.io/github/followers/LilliDarling?label=Follow&style=social)](https://github.com/LilliDarling)
-[![Discord](https://img.shields.io/badge/Discord-@lillith__rising-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-@lillith__rising-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/814526671549235209)  
 [!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
 
 ## 👩‍💻 About Me
@@ -45,6 +45,14 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-00897B?style=flat)
 
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://discord.com/users/814526671549235209" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <!-- Add other social media icons as needed -->
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,17 +61,6 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LilliDarling&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗺 Development Roadmap
-[![roadmap.sh](https://roadmap.sh/card/tall/66b23099d9896b3d142321e1?variant=dark)](https://roadmap.sh)
-
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://discord.com/users/814526671549235209" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <!-- Add other social media icons as needed -->
-</p>
 
 ## 👁‍🗨 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)  
