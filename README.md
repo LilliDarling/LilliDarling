@@ -1,13 +1,16 @@
 # 👋 Hey there! I'm Lilli (@LilliDarling)
 ### 🚀 Full-Stack Engineer | AI Enthusiast | Continuous Learner
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/LilliDarling?label=Follow&style=social)](https://github.com/LilliDarling)
 [![Discord](https://img.shields.io/badge/Discord-@lillith__rising-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/814526671549235209)  
 [!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
 
 ## 👩‍💻 About Me
-- 🔭 Currently working on personal AI and full-stack projects
-- 🌱 Learning advanced AI/ML implementations and cloud security
+- 🔭 Currently working on personal AI and full-stack projects as well as a volunteer founding engineer for a Neurodivergent company
+- 🌱 Learning advanced AI/ML implementations with Multimodal and Agent AI approaches
 - 🎯 Goal: Contributing to AI Systems and Agentic technologies
 - ⚡ Fun fact: I am an **AMAZING** cook!!!
 
@@ -61,9 +64,6 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LilliDarling&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👁‍🗨 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=LilliDarling&color=blueviolet)  
 
 ---
 
