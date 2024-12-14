@@ -53,7 +53,9 @@
   <a href="https://discord.com/users/814526671549235209" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <!-- Add other social media icons as needed -->
+  <a href="https://www.linkedin.com/in/lillith-long/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
