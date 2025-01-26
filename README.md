@@ -53,13 +53,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lillith-long)
 [!["Buy Me A Coffee?"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/LilliDarling)
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilliDarling&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LilliDarling&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
