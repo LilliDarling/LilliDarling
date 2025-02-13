@@ -11,7 +11,7 @@
 - 🔭 Currently working on personal AI and full-stack projects as well as a volunteer founding engineer for a Neurodivergent company
 - 🌱 Learning advanced AI/ML implementations with Multimodal and Agent AI approaches
 - 🎯 Goal: Contributing to AI Systems and Agentic technologies
-- ⚡ Fun fact: I am an **AMAZING** cook!!!
+- ⚡ Fun fact: I am a huge snowboarder and love hiking during warmer months!
 
 ## 🛠 Tech Stack
 
