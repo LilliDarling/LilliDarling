@@ -26,7 +26,7 @@
 <br clear="right"/>
 
 ---
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA2ajZ0ZWNtdjV3ZmRqcW10NmRubTJicno3aWtsbjZteWIza2F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qyz2amsPwxBQxwiZHC/giphy.gif" width="500" alt="Cat assistant" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA2ajZ0ZWNtdjV3ZmRqcW10NmRubTJicno3aWtsbjZteWIza2F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qyz2amsPwxBQxwiZHC/giphy.gif" width="400" alt="Cat assistant" />
 
 <h2>💻 What I Build With</h2>
 
@@ -107,7 +107,7 @@
 </td>
 <td align="center">
 
-<img width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" />
+<img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" />
 
 </td>
 </tr>
